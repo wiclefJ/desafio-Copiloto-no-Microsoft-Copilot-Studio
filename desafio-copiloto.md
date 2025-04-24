@@ -3,4 +3,4 @@ O sistema do microsoft Copilot é uma ferramenta exelente, uma vez que faz integ
 Vou continuar com os estudos, buscando elaborar ferreamentas para auxilar meu trabalho e estudos.
 # ![<Tela do execício>][def]
 
-[def]: <img/Tela-desafio.png>
+[def]: <Tela-desafio.png>
